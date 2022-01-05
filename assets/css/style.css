@@ -8,6 +8,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 18px;
+}
+
 /*Begin header styling*/
 .header {
     padding: 20px;
@@ -43,16 +52,7 @@ body {
 }
 /*End header styling*/
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 18px;
-}
-
-/*Style for all of hero*/
+/*Being Hero styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* End Hero styling */
 
 /*Begin main article contents styling*/
 .float-left {
@@ -127,6 +128,7 @@ p {
 }
 /*End benefits section styling*/
 
+/* Begin Footer styling */
 .footer {
     padding: 30px;
     clear: both;
@@ -137,3 +139,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* End Footer styling */
