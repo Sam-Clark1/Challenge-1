@@ -24,22 +24,23 @@ https://sam-clark1.github.io/Horiseon-Website-Refactor/
 
 ### HTML Changes
 
-    Accessibility
+Accessibility
 
-    - Updated header to include more meta tags and gave website a proper title.
-    - Added link to website title to take you back to main page and also fixed broken "search engine optimization" link. 
+- Updated header to include more meta tags and gave website a proper title.
+- Added link to website title to take you back to main page and also fixed broken "search engine optimization" link. 
+- Added alt attributes to each image.
 
-    Semantics and Organization
+Semantics and Organization
 
-    - Changed many of the div containers to descriptive ones that match their content (ex. header, section, etc.).
-    - Combined classes in the content section instead of having multiple unnecessary classes. Did the same in the benefits section. 
+- Changed many of the div containers to descriptive ones that match their content (ex. header, section, etc.).
+- Combined classes in the content section instead of having multiple unnecessary classes. Did the same in the benefits section. 
 
 ### CSS Changes
 
-    - Organized css elements into a more acceptable order. 
-    - Changed colors on main title to have the "seo" in Horiseon be more pronounced. 
-    - Added comments stating where css for each part of the website begins and ends. 
-    - Combined classes where multiple classes were doing the same thing.
-    - Fixed margins on benefits section to be the same length as content section. 
-    - Made all the blue the same type.
+- Organized css elements into a more acceptable order. 
+- Changed colors on main title to have the "seo" in Horiseon be more pronounced. 
+- Added comments stating where css for each part of the website begins and ends. 
+- Combined classes where multiple classes were doing the same thing.
+- Fixed margins on benefits section to be the same length as content section. 
+- Made all the blue the same type.
 
