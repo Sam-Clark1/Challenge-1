@@ -17,7 +17,7 @@ https://sam-clark1.github.io/Horiseon-Website-Refactor/
         <img src="./assets/images/website-before.png" alt="website before refactoring" width=325px height=500px/>
     </td>
     <td>
-        <img src="./assets/images/website-before.png" alt="website before refactoring" width=325px height=500px/>
+        <img src="./assets/images/website-after.png" alt="website after refactoring" width=325px height=500px/>
     </td>
 </tr>
 </table>
